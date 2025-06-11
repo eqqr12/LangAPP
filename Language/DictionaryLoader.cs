@@ -12,10 +12,6 @@ namespace LanguageApp
 
             foreach (var line in File.ReadLines(filePath))
             {
-<<<<<<< HEAD
-                // ігноруємо порожні рядки
-=======
->>>>>>> adaf28d (second commit)
                 if (string.IsNullOrWhiteSpace(line)) continue;
 
                 var parts = line.Split(',');
@@ -25,10 +21,6 @@ namespace LanguageApp
                     string eng = parts[0].Trim();
                     string ukr = parts[1].Trim();
 
-<<<<<<< HEAD
-                    // базова перевірка, чи обидва слова мають зміст
-=======
->>>>>>> adaf28d (second commit)
                     if (!string.IsNullOrWhiteSpace(eng) && !string.IsNullOrWhiteSpace(ukr))
                     {
                         list.Add(new WordPair
@@ -39,10 +31,6 @@ namespace LanguageApp
                     }
                 }
             }
-<<<<<<< HEAD
-
-=======
->>>>>>> adaf28d (second commit)
             return list;
         }
     }

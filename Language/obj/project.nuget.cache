@@ -1,18 +1,11 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "iXNAQkJ6NHk=",
+  "dgSpecHash": "nOSojj+GSnQ=",
   "success": true,
-  "projectFilePath": "D:\\New folder\\Language 1.1\\Language\\LanguageApp.csproj",
-  "expectedPackageFiles": [],
-=======
-  "dgSpecHash": "DZsAhoeut1M=",
-  "success": true,
-  "projectFilePath": "C:\\Users\\rosti\\Desktop\\Language\\Language\\LanguageApp.csproj",
+  "projectFilePath": "C:\\Users\\rosti\\Desktop\\Language 1.2\\Language\\Language\\LanguageApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rosti\\.nuget\\packages\\wpf-ui\\4.0.2\\wpf-ui.4.0.2.nupkg.sha512",
     "C:\\Users\\rosti\\.nuget\\packages\\wpf-ui.abstractions\\4.0.2\\wpf-ui.abstractions.4.0.2.nupkg.sha512"
   ],
->>>>>>> adaf28d (second commit)
   "logs": []
 }

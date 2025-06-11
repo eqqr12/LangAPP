@@ -1,31 +1,17 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
-    "D:\\New folder\\Language 1.1\\Language\\LanguageApp.csproj": {}
+    "C:\\Users\\rosti\\Desktop\\Language 1.2\\Language\\Language\\LanguageApp.csproj": {}
   },
   "projects": {
-    "D:\\New folder\\Language 1.1\\Language\\LanguageApp.csproj": {
+    "C:\\Users\\rosti\\Desktop\\Language 1.2\\Language\\Language\\LanguageApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\New folder\\Language 1.1\\Language\\LanguageApp.csproj",
+        "projectUniqueName": "C:\\Users\\rosti\\Desktop\\Language 1.2\\Language\\Language\\LanguageApp.csproj",
         "projectName": "LanguageApp",
-        "projectPath": "D:\\New folder\\Language 1.1\\Language\\LanguageApp.csproj",
+        "projectPath": "C:\\Users\\rosti\\Desktop\\Language 1.2\\Language\\Language\\LanguageApp.csproj",
         "packagesPath": "C:\\Users\\rosti\\.nuget\\packages\\",
-        "outputPath": "D:\\New folder\\Language 1.1\\Language\\obj\\",
-=======
-    "C:\\Users\\rosti\\Desktop\\Language\\Language\\LanguageApp.csproj": {}
-  },
-  "projects": {
-    "C:\\Users\\rosti\\Desktop\\Language\\Language\\LanguageApp.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\rosti\\Desktop\\Language\\Language\\LanguageApp.csproj",
-        "projectName": "LanguageApp",
-        "projectPath": "C:\\Users\\rosti\\Desktop\\Language\\Language\\LanguageApp.csproj",
-        "packagesPath": "C:\\Users\\rosti\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rosti\\Desktop\\Language\\Language\\obj\\",
->>>>>>> adaf28d (second commit)
+        "outputPath": "C:\\Users\\rosti\\Desktop\\Language 1.2\\Language\\Language\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -63,15 +49,12 @@
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
-<<<<<<< HEAD
-=======
           "dependencies": {
             "WPF-UI": {
               "target": "Package",
               "version": "[4.0.2, )"
             }
           },
->>>>>>> adaf28d (second commit)
           "imports": [
             "net461",
             "net462",

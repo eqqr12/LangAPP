@@ -5,11 +5,6 @@
   },
   "compilationOptions": {},
   "targets": {
-<<<<<<< HEAD
-    ".NETCoreApp,Version=v8.0": {}
-  },
-  "libraries": {}
-=======
     ".NETCoreApp,Version=v8.0": {
       "WPF-UI/4.0.2": {
         "dependencies": {
@@ -48,5 +43,4 @@
       "hashPath": "wpf-ui.abstractions.4.0.2.nupkg.sha512"
     }
   }
->>>>>>> adaf28d (second commit)
 }

@@ -8,11 +8,7 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = LanguageApp
-<<<<<<< HEAD
-build_property.ProjectDir = D:\New folder\Language 1.1\Language\
-=======
-build_property.ProjectDir = C:\Users\rosti\Desktop\Language\Language\
->>>>>>> adaf28d (second commit)
+build_property.ProjectDir = C:\Users\rosti\Desktop\Language 1.2\Language\Language\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false

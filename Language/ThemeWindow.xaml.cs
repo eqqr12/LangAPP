@@ -4,14 +4,6 @@ namespace LanguageApp
 {
     public partial class ThemeWindow : Window
     {
-<<<<<<< HEAD
-        public ThemeWindow(string topic)
-        {
-            InitializeComponent();
-            ShowTheory(topic);
-        }
-
-=======
         private string currentTopic;
         public ThemeWindow(string topic)
         {
@@ -27,7 +19,6 @@ namespace LanguageApp
             this.Close();
         }
 
->>>>>>> adaf28d (second commit)
         private void ShowTheory(string topic)
         {
             switch (topic.ToLower())

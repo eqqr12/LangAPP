@@ -1,9 +1,6 @@
 ﻿<Window x:Class="LanguageApp.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-<<<<<<< HEAD
-        Title="Flashcards" Height="650" Width="700" Background="#FAFAFA">
-=======
         Title="Flashcards"
         Height="500" Width="700"
         ResizeMode="NoResize"
@@ -11,7 +8,6 @@
         Foreground="{DynamicResource ForegroundColor}"
         WindowStartupLocation="CenterScreen">
 
->>>>>>> adaf28d (second commit)
     <Grid Margin="20">
         <ScrollViewer VerticalScrollBarVisibility="Auto">
             <StackPanel VerticalAlignment="Top" HorizontalAlignment="Center" Width="400">
@@ -44,10 +40,6 @@
                     <Button x:Name="RepeatButton" Content="Повторити" Click="Repeat_Click" Visibility="Collapsed" Width="120"/>
                 </StackPanel>
 
-<<<<<<< HEAD
-                <!-- Показати відповіді -->
-=======
->>>>>>> adaf28d (second commit)
                 <Button x:Name="ShowResultsButton"
                         Content="Показати відповіді"
                         Click="ShowResults_Click"
@@ -72,10 +64,6 @@
                         <DataGridCheckBoxColumn Header="✅" Binding="{Binding IsCorrect}" Width="60"/>
                     </DataGrid.Columns>
                 </DataGrid>
-<<<<<<< HEAD
-
-=======
->>>>>>> adaf28d (second commit)
             </StackPanel>
         </ScrollViewer>
     </Grid>

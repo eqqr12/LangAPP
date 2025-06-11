@@ -1,9 +1,6 @@
 ﻿<Window x:Class="LanguageApp.MainMenu"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-<<<<<<< HEAD
-        Title="Меню" Height="450" Width="300" Background="#F5F5F5">
-=======
         Title="Меню"
         Height="500" Width="700"
         ResizeMode="NoResize"
@@ -11,7 +8,6 @@
         Foreground="{DynamicResource ForegroundColor}"
         WindowStartupLocation="CenterScreen">
     
->>>>>>> adaf28d (second commit)
     <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
 
         <TextBlock Text="Головне меню" FontSize="24" FontWeight="Bold" Margin="0,0,0,20" HorizontalAlignment="Center"/>
@@ -19,11 +15,8 @@
         <Button x:Name="TestsButton" Content="Тести" Click="Tests_Click"/>
         <Button x:Name="ThemesButton" Content="Теми" Click="Themes_Click"/>
         <Button x:Name="MistakesButton" Content="Мої помилки" Click="Mistakes_Click"/>
-<<<<<<< HEAD
-=======
         <Button x:Name="SettingsButton"
         Content="⚙Налаштування" Click="Settings_Click" Height="45" Margin="0,10"/>
->>>>>>> adaf28d (second commit)
 
         <StackPanel x:Name="TestButtonsPanel" Visibility="Collapsed">
             <Button Content="Англ → Укр" Click="EngToUkr_Click"/>

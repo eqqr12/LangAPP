@@ -1,16 +1,11 @@
 ﻿using System.Windows;
-<<<<<<< HEAD
-=======
 using System.Windows.Media;
 using LanguageApp.Properties;
->>>>>>> adaf28d (second commit)
 
 namespace LanguageApp
 {
     public partial class App : Application
     {
-<<<<<<< HEAD
-=======
         protected override void OnStartup(StartupEventArgs e)
         {
             base.OnStartup(e);
@@ -33,6 +28,5 @@ namespace LanguageApp
                 Current.Resources["ButtonColor"] = new SolidColorBrush((Color)ColorConverter.ConvertFromString("#007ACC"));
             }
         }
->>>>>>> adaf28d (second commit)
     }
 }

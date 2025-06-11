@@ -26,36 +26,6 @@ D:\New folder\Language\Language\obj\Debug\net8.0-windows\ref\LanguageApp.dll
 D:\New folder\Language\Language\obj\Debug\net8.0-windows\ThemeWindow.baml
 D:\New folder\Language\Language\obj\Debug\net8.0-windows\ThemeWindow.g.cs
 D:\New folder\Language\Language\obj\Debug\net8.0-windows\App.baml
-<<<<<<< HEAD
-D:\New folder\Language 1.1\Language\bin\Debug\net8.0-windows\LanguageApp.exe
-D:\New folder\Language 1.1\Language\bin\Debug\net8.0-windows\LanguageApp.deps.json
-D:\New folder\Language 1.1\Language\bin\Debug\net8.0-windows\LanguageApp.runtimeconfig.json
-D:\New folder\Language 1.1\Language\bin\Debug\net8.0-windows\LanguageApp.dll
-D:\New folder\Language 1.1\Language\bin\Debug\net8.0-windows\LanguageApp.pdb
-D:\New folder\Language 1.1\Language\obj\Debug\net8.0-windows\MainMenu.baml
-D:\New folder\Language 1.1\Language\obj\Debug\net8.0-windows\MainWindow.baml
-D:\New folder\Language 1.1\Language\obj\Debug\net8.0-windows\MistakeTrainer.baml
-D:\New folder\Language 1.1\Language\obj\Debug\net8.0-windows\ResultsWindow.baml
-D:\New folder\Language 1.1\Language\obj\Debug\net8.0-windows\ThemeWindow.baml
-D:\New folder\Language 1.1\Language\obj\Debug\net8.0-windows\App.baml
-D:\New folder\Language 1.1\Language\obj\Debug\net8.0-windows\MainMenu.g.cs
-D:\New folder\Language 1.1\Language\obj\Debug\net8.0-windows\MainWindow.g.cs
-D:\New folder\Language 1.1\Language\obj\Debug\net8.0-windows\MistakeTrainer.g.cs
-D:\New folder\Language 1.1\Language\obj\Debug\net8.0-windows\ResultsWindow.g.cs
-D:\New folder\Language 1.1\Language\obj\Debug\net8.0-windows\ThemeWindow.g.cs
-D:\New folder\Language 1.1\Language\obj\Debug\net8.0-windows\App.g.cs
-D:\New folder\Language 1.1\Language\obj\Debug\net8.0-windows\LanguageApp_MarkupCompile.cache
-D:\New folder\Language 1.1\Language\obj\Debug\net8.0-windows\LanguageApp.g.resources
-D:\New folder\Language 1.1\Language\obj\Debug\net8.0-windows\LanguageApp.GeneratedMSBuildEditorConfig.editorconfig
-D:\New folder\Language 1.1\Language\obj\Debug\net8.0-windows\LanguageApp.AssemblyInfoInputs.cache
-D:\New folder\Language 1.1\Language\obj\Debug\net8.0-windows\LanguageApp.AssemblyInfo.cs
-D:\New folder\Language 1.1\Language\obj\Debug\net8.0-windows\LanguageApp.csproj.CoreCompileInputs.cache
-D:\New folder\Language 1.1\Language\obj\Debug\net8.0-windows\LanguageApp.dll
-D:\New folder\Language 1.1\Language\obj\Debug\net8.0-windows\refint\LanguageApp.dll
-D:\New folder\Language 1.1\Language\obj\Debug\net8.0-windows\LanguageApp.pdb
-D:\New folder\Language 1.1\Language\obj\Debug\net8.0-windows\LanguageApp.genruntimeconfig.cache
-D:\New folder\Language 1.1\Language\obj\Debug\net8.0-windows\ref\LanguageApp.dll
-=======
 D:\New folder\Language\Language\bin\Debug\net8.0-windows\Wpf.Ui.dll
 D:\New folder\Language\Language\bin\Debug\net8.0-windows\Wpf.Ui.Abstractions.dll
 D:\New folder\Language\Language\obj\Debug\net8.0-windows\LanguageApp.csproj.AssemblyReference.cache
@@ -65,41 +35,40 @@ D:\New folder\Language\Language\obj\Debug\net8.0-windows\ThemeTestWindow.g.cs
 D:\New folder\Language\Language\obj\Debug\net8.0-windows\SettingsWindow.baml
 D:\New folder\Language\Language\obj\Debug\net8.0-windows\SettingsWindow.g.cs
 D:\New folder\Language\Language\bin\Debug\net8.0-windows\LanguageApp.dll.config
-C:\Users\rosti\Desktop\Language\Language\bin\Debug\net8.0-windows\LanguageApp.exe
-C:\Users\rosti\Desktop\Language\Language\bin\Debug\net8.0-windows\LanguageApp.dll.config
-C:\Users\rosti\Desktop\Language\Language\bin\Debug\net8.0-windows\LanguageApp.deps.json
-C:\Users\rosti\Desktop\Language\Language\bin\Debug\net8.0-windows\LanguageApp.runtimeconfig.json
-C:\Users\rosti\Desktop\Language\Language\bin\Debug\net8.0-windows\LanguageApp.dll
-C:\Users\rosti\Desktop\Language\Language\bin\Debug\net8.0-windows\LanguageApp.pdb
-C:\Users\rosti\Desktop\Language\Language\bin\Debug\net8.0-windows\Wpf.Ui.dll
-C:\Users\rosti\Desktop\Language\Language\bin\Debug\net8.0-windows\Wpf.Ui.Abstractions.dll
-C:\Users\rosti\Desktop\Language\Language\obj\Debug\net8.0-windows\LanguageApp.csproj.AssemblyReference.cache
-C:\Users\rosti\Desktop\Language\Language\obj\Debug\net8.0-windows\MainMenu.baml
-C:\Users\rosti\Desktop\Language\Language\obj\Debug\net8.0-windows\MainWindow.baml
-C:\Users\rosti\Desktop\Language\Language\obj\Debug\net8.0-windows\MistakeTrainer.baml
-C:\Users\rosti\Desktop\Language\Language\obj\Debug\net8.0-windows\ResultsWindow.baml
-C:\Users\rosti\Desktop\Language\Language\obj\Debug\net8.0-windows\SettingsWindow.baml
-C:\Users\rosti\Desktop\Language\Language\obj\Debug\net8.0-windows\ThemeTestWindow.baml
-C:\Users\rosti\Desktop\Language\Language\obj\Debug\net8.0-windows\ThemeWindow.baml
-C:\Users\rosti\Desktop\Language\Language\obj\Debug\net8.0-windows\App.baml
-C:\Users\rosti\Desktop\Language\Language\obj\Debug\net8.0-windows\MainMenu.g.cs
-C:\Users\rosti\Desktop\Language\Language\obj\Debug\net8.0-windows\MainWindow.g.cs
-C:\Users\rosti\Desktop\Language\Language\obj\Debug\net8.0-windows\MistakeTrainer.g.cs
-C:\Users\rosti\Desktop\Language\Language\obj\Debug\net8.0-windows\ResultsWindow.g.cs
-C:\Users\rosti\Desktop\Language\Language\obj\Debug\net8.0-windows\SettingsWindow.g.cs
-C:\Users\rosti\Desktop\Language\Language\obj\Debug\net8.0-windows\ThemeTestWindow.g.cs
-C:\Users\rosti\Desktop\Language\Language\obj\Debug\net8.0-windows\ThemeWindow.g.cs
-C:\Users\rosti\Desktop\Language\Language\obj\Debug\net8.0-windows\App.g.cs
-C:\Users\rosti\Desktop\Language\Language\obj\Debug\net8.0-windows\LanguageApp_MarkupCompile.cache
-C:\Users\rosti\Desktop\Language\Language\obj\Debug\net8.0-windows\LanguageApp.g.resources
-C:\Users\rosti\Desktop\Language\Language\obj\Debug\net8.0-windows\LanguageApp.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\rosti\Desktop\Language\Language\obj\Debug\net8.0-windows\LanguageApp.AssemblyInfoInputs.cache
-C:\Users\rosti\Desktop\Language\Language\obj\Debug\net8.0-windows\LanguageApp.AssemblyInfo.cs
-C:\Users\rosti\Desktop\Language\Language\obj\Debug\net8.0-windows\LanguageApp.csproj.CoreCompileInputs.cache
-C:\Users\rosti\Desktop\Language\Language\obj\Debug\net8.0-windows\Language.9C26066D.Up2Date
-C:\Users\rosti\Desktop\Language\Language\obj\Debug\net8.0-windows\LanguageApp.dll
-C:\Users\rosti\Desktop\Language\Language\obj\Debug\net8.0-windows\refint\LanguageApp.dll
-C:\Users\rosti\Desktop\Language\Language\obj\Debug\net8.0-windows\LanguageApp.pdb
-C:\Users\rosti\Desktop\Language\Language\obj\Debug\net8.0-windows\LanguageApp.genruntimeconfig.cache
-C:\Users\rosti\Desktop\Language\Language\obj\Debug\net8.0-windows\ref\LanguageApp.dll
->>>>>>> adaf28d (second commit)
+C:\Users\rosti\Desktop\Language 1.2\Language\Language\bin\Debug\net8.0-windows\LanguageApp.exe
+C:\Users\rosti\Desktop\Language 1.2\Language\Language\bin\Debug\net8.0-windows\LanguageApp.dll.config
+C:\Users\rosti\Desktop\Language 1.2\Language\Language\bin\Debug\net8.0-windows\LanguageApp.deps.json
+C:\Users\rosti\Desktop\Language 1.2\Language\Language\bin\Debug\net8.0-windows\LanguageApp.runtimeconfig.json
+C:\Users\rosti\Desktop\Language 1.2\Language\Language\bin\Debug\net8.0-windows\LanguageApp.dll
+C:\Users\rosti\Desktop\Language 1.2\Language\Language\bin\Debug\net8.0-windows\LanguageApp.pdb
+C:\Users\rosti\Desktop\Language 1.2\Language\Language\bin\Debug\net8.0-windows\Wpf.Ui.dll
+C:\Users\rosti\Desktop\Language 1.2\Language\Language\bin\Debug\net8.0-windows\Wpf.Ui.Abstractions.dll
+C:\Users\rosti\Desktop\Language 1.2\Language\Language\obj\Debug\net8.0-windows\LanguageApp.csproj.AssemblyReference.cache
+C:\Users\rosti\Desktop\Language 1.2\Language\Language\obj\Debug\net8.0-windows\MainMenu.baml
+C:\Users\rosti\Desktop\Language 1.2\Language\Language\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\rosti\Desktop\Language 1.2\Language\Language\obj\Debug\net8.0-windows\MistakeTrainer.baml
+C:\Users\rosti\Desktop\Language 1.2\Language\Language\obj\Debug\net8.0-windows\ResultsWindow.baml
+C:\Users\rosti\Desktop\Language 1.2\Language\Language\obj\Debug\net8.0-windows\SettingsWindow.baml
+C:\Users\rosti\Desktop\Language 1.2\Language\Language\obj\Debug\net8.0-windows\ThemeTestWindow.baml
+C:\Users\rosti\Desktop\Language 1.2\Language\Language\obj\Debug\net8.0-windows\ThemeWindow.baml
+C:\Users\rosti\Desktop\Language 1.2\Language\Language\obj\Debug\net8.0-windows\App.baml
+C:\Users\rosti\Desktop\Language 1.2\Language\Language\obj\Debug\net8.0-windows\MainMenu.g.cs
+C:\Users\rosti\Desktop\Language 1.2\Language\Language\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\rosti\Desktop\Language 1.2\Language\Language\obj\Debug\net8.0-windows\MistakeTrainer.g.cs
+C:\Users\rosti\Desktop\Language 1.2\Language\Language\obj\Debug\net8.0-windows\ResultsWindow.g.cs
+C:\Users\rosti\Desktop\Language 1.2\Language\Language\obj\Debug\net8.0-windows\SettingsWindow.g.cs
+C:\Users\rosti\Desktop\Language 1.2\Language\Language\obj\Debug\net8.0-windows\ThemeTestWindow.g.cs
+C:\Users\rosti\Desktop\Language 1.2\Language\Language\obj\Debug\net8.0-windows\ThemeWindow.g.cs
+C:\Users\rosti\Desktop\Language 1.2\Language\Language\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\rosti\Desktop\Language 1.2\Language\Language\obj\Debug\net8.0-windows\LanguageApp_MarkupCompile.cache
+C:\Users\rosti\Desktop\Language 1.2\Language\Language\obj\Debug\net8.0-windows\LanguageApp.g.resources
+C:\Users\rosti\Desktop\Language 1.2\Language\Language\obj\Debug\net8.0-windows\LanguageApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rosti\Desktop\Language 1.2\Language\Language\obj\Debug\net8.0-windows\LanguageApp.AssemblyInfoInputs.cache
+C:\Users\rosti\Desktop\Language 1.2\Language\Language\obj\Debug\net8.0-windows\LanguageApp.AssemblyInfo.cs
+C:\Users\rosti\Desktop\Language 1.2\Language\Language\obj\Debug\net8.0-windows\LanguageApp.csproj.CoreCompileInputs.cache
+C:\Users\rosti\Desktop\Language 1.2\Language\Language\obj\Debug\net8.0-windows\Language.9C26066D.Up2Date
+C:\Users\rosti\Desktop\Language 1.2\Language\Language\obj\Debug\net8.0-windows\LanguageApp.dll
+C:\Users\rosti\Desktop\Language 1.2\Language\Language\obj\Debug\net8.0-windows\refint\LanguageApp.dll
+C:\Users\rosti\Desktop\Language 1.2\Language\Language\obj\Debug\net8.0-windows\LanguageApp.pdb
+C:\Users\rosti\Desktop\Language 1.2\Language\Language\obj\Debug\net8.0-windows\LanguageApp.genruntimeconfig.cache
+C:\Users\rosti\Desktop\Language 1.2\Language\Language\obj\Debug\net8.0-windows\ref\LanguageApp.dll

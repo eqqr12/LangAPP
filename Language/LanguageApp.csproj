@@ -8,8 +8,6 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
-<<<<<<< HEAD
-=======
   <ItemGroup>
     <PackageReference Include="WPF-UI" Version="4.0.2" />
   </ItemGroup>
@@ -29,5 +27,4 @@
     </None>
   </ItemGroup>
 
->>>>>>> adaf28d (second commit)
 </Project>
