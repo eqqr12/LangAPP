@@ -1,7 +1,17 @@
 ﻿<Window x:Class="LanguageApp.ThemeWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+<<<<<<< HEAD
         Title="Граматична тема" Height="550" Width="700" Background="#FAFAFA">
+=======
+        Title="Граматична тема"
+        Height="500" Width="700"
+        ResizeMode="NoResize"
+        Background="{DynamicResource BackgroundColor}"
+        Foreground="{DynamicResource ForegroundColor}"
+        WindowStartupLocation="CenterScreen">
+
+>>>>>>> adaf28d (second commit)
     <Grid Margin="10">
         <Grid.RowDefinitions>
             <RowDefinition Height="*"/>
@@ -13,8 +23,13 @@
         </ScrollViewer>
 
         <StackPanel Orientation="Horizontal" Grid.Row="1" HorizontalAlignment="Center">
+<<<<<<< HEAD
             <Button Content="Перейти до тесту (недоступно)" IsEnabled="False"/>
             <Button Content="Меню" Click="Back_Click"/>
+=======
+            <Button x:Name="GoToTestButton" Content="Перейти до тесту" Click="GoToTest_Click" Height="45" Width="200"/>
+            <Button Content="Меню" Click="Back_Click" Height="45"/>
+>>>>>>> adaf28d (second commit)
         </StackPanel>
     </Grid>
 </Window>

@@ -4,17 +4,30 @@
 winexe
 C#
 .cs
-D:\New folder\LangAPP\Language\obj\Debug\net8.0-windows\
+<<<<<<< HEAD
+D:\New folder\Language 1.1\Language\obj\Debug\net8.0-windows\
+=======
+C:\Users\rosti\Desktop\Language\Language\obj\Debug\net8.0-windows\
+>>>>>>> adaf28d (second commit)
 LanguageApp
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-D:\New folder\LangAPP\Language\App.xaml
+<<<<<<< HEAD
+D:\New folder\Language 1.1\Language\App.xaml
 5-1864575115
 
 161771363410
 198-1431420039
 MainMenu.xaml;MainWindow.xaml;MistakeTrainer.xaml;ResultsWindow.xaml;ThemeWindow.xaml;
+=======
+C:\Users\rosti\Desktop\Language\Language\App.xaml
+7821166748
+
+19-1294995504
+2001761784854
+MainMenu.xaml;MainWindow.xaml;MistakeTrainer.xaml;ResultsWindow.xaml;SettingsWindow.xaml;ThemeTestWindow.xaml;ThemeWindow.xaml;
+>>>>>>> adaf28d (second commit)
 
 False
 

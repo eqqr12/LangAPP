@@ -4,12 +4,30 @@ namespace LanguageApp
 {
     public partial class ThemeWindow : Window
     {
+<<<<<<< HEAD
         public ThemeWindow(string topic)
         {
             InitializeComponent();
             ShowTheory(topic);
         }
 
+=======
+        private string currentTopic;
+        public ThemeWindow(string topic)
+        {
+            InitializeComponent();
+            currentTopic = topic;
+            ShowTheory(topic);
+        }
+
+        private void GoToTest_Click(object sender, RoutedEventArgs e)
+        {
+            var testWindow = new ThemeTestWindow(currentTopic);
+            testWindow.Show();
+            this.Close();
+        }
+
+>>>>>>> adaf28d (second commit)
         private void ShowTheory(string topic)
         {
             switch (topic.ToLower())

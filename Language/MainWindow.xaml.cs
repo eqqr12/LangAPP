@@ -51,7 +51,11 @@ namespace LanguageApp
 
             if (_reverse)
             {
+<<<<<<< HEAD
                 // Режим укр → англ: міняємо місцями
+=======
+                //укр → англ
+>>>>>>> adaf28d (second commit)
                 allWords = allWords.Select(w => new WordPair
                 {
                     Native = w.Foreign,
@@ -59,13 +63,20 @@ namespace LanguageApp
                 }).ToList();
             }
 
+<<<<<<< HEAD
             // Видаляємо дублікати за словом, яке показується
+=======
+            //видаляємо дублікати за словом
+>>>>>>> adaf28d (second commit)
             allWords = allWords
                 .GroupBy(w => w.Native.Trim().ToLower())
                 .Select(g => g.First())
                 .ToList();
 
+<<<<<<< HEAD
             // Вибираємо випадкові без повторів
+=======
+>>>>>>> adaf28d (second commit)
             _words = allWords.OrderBy(_ => Guid.NewGuid()).Take(20).ToList();
 
             _currentIndex = 0;
@@ -79,9 +90,12 @@ namespace LanguageApp
             DisplayNextWord();
         }
 
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> adaf28d (second commit)
         private void DisplayNextWord()
         {
             if (_currentIndex < _words.Count)
@@ -97,8 +111,11 @@ namespace LanguageApp
             }
         }
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> adaf28d (second commit)
         private async void Check_Click(object sender, RoutedEventArgs e)
         {
             if (_currentIndex >= _words.Count) return;
@@ -113,7 +130,10 @@ namespace LanguageApp
                 .Select(a => a.Trim().ToLower())
                 .ToList();
 
+<<<<<<< HEAD
             // НЕ рахуємо порожній ввід правильним
+=======
+>>>>>>> adaf28d (second commit)
             if (string.IsNullOrWhiteSpace(userInput))
             {
                 ResultTextBlock.Text = $"❌ Неправильно. Правильно: {correctRaw}";
@@ -135,8 +155,11 @@ namespace LanguageApp
             }
 
             string userStem = Stem(userInput);
+<<<<<<< HEAD
 
             // Тепер перевірка: ТІЛЬКИ ПОВНИЙ збіг або співпадіння після стемінгу
+=======
+>>>>>>> adaf28d (second commit)
             bool isCorrect = correctAnswers.Any(ans =>
                 ans == userInput || Stem(ans) == userStem
             );
@@ -174,7 +197,11 @@ namespace LanguageApp
             CheckButton.Visibility = Visibility.Collapsed;
             ResultTextBlock.Text = $"Правильних: {_correctCount} | Неправильних: {_wrongCount}";
             RepeatButton.Visibility = Visibility.Visible;
+<<<<<<< HEAD
             ShowResultsButton.Visibility = Visibility.Visible; // ← показуємо кнопку
+=======
+            ShowResultsButton.Visibility = Visibility.Visible;
+>>>>>>> adaf28d (second commit)
         }
 
         private void ShowResults_Click(object sender, RoutedEventArgs e)
@@ -196,6 +223,9 @@ namespace LanguageApp
             menu.Show();
             this.Close();
         }
+<<<<<<< HEAD
 
+=======
+>>>>>>> adaf28d (second commit)
     }
 }

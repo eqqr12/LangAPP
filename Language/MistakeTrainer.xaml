@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿<Window x:Class="MistakeTrainer"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
@@ -24,4 +25,60 @@
 		</StackPanel>
 
 	</Grid>
+=======
+﻿<Window x:Class="LanguageApp.MistakeTrainer"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Мої помилки" Height="500" Width="700"
+        Background="{DynamicResource BackgroundColor}"
+        Foreground="{DynamicResource ForegroundColor}"
+        WindowStartupLocation="CenterScreen">
+
+    <Grid x:Name="MainPanel" Background="{DynamicResource BackgroundColor}" Margin="10">
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Width="400">
+
+            <TextBlock x:Name="CurrentWord"
+                       FontSize="22"
+                       FontWeight="Bold"
+                       TextAlignment="Center"
+                       Margin="0,0,0,10"/>
+
+            <TextBox x:Name="AnswerBox"
+                     FontSize="16"
+                     Height="35"
+                     Margin="0,0,0,10"/>
+
+            <TextBlock x:Name="Feedback"
+                       FontSize="16"
+                       TextAlignment="Center"
+                       TextWrapping="Wrap"
+                       Margin="0,0,0,10"/>
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button Content="←" Click="Prev_Click" Width="50" Margin="5"/>
+                <Button x:Name="CheckButton" Content="Перевірити" Click="Check_Click" Width="150" Margin="5"/>
+                <Button Content="→" Click="Next_Click" Width="50" Margin="5"/>
+            </StackPanel>
+
+            <Button Content="Меню" Click="Menu_Click"
+                    Width="120" Margin="0,20,0,0" HorizontalAlignment="Center"/>
+
+        </StackPanel>
+
+        <!-- Панель завершення -->
+        <StackPanel x:Name="CompletionPanel"
+                    Visibility="Collapsed"
+                    VerticalAlignment="Center"
+                    HorizontalAlignment="Center">
+            <TextBlock Text="✅ Усі помилки виправлено!"
+                       FontSize="24"
+                       FontWeight="Bold"
+                       TextAlignment="Center"
+                       Margin="0,0,0,20"/>
+            <Button Content="Повернутись у меню"
+                    Click="Menu_Click"
+                    Width="200" Height="40"/>
+        </StackPanel>
+    </Grid>
+>>>>>>> adaf28d (second commit)
 </Window>

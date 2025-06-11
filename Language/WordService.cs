@@ -26,13 +26,20 @@ namespace LanguageApp
                 return new List<WordPair>();
             }
 
+<<<<<<< HEAD
             // Усуваємо дублікати за словом, яке буде показано (англійське слово)
+=======
+            //аидалення дублікату
+>>>>>>> adaf28d (second commit)
             var distinctWords = allWords
                 .GroupBy(w => w.Native.Trim().ToLower())
                 .Select(g => g.First())
                 .ToList();
 
+<<<<<<< HEAD
             // Перемішуємо список та беремо випадкові 20 унікальних пар
+=======
+>>>>>>> adaf28d (second commit)
             var random = new Random();
             return distinctWords.OrderBy(_ => random.Next()).Take(20).ToList();
         }
