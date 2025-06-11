@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\New folder\\Language 1.1\\Language\\LanguageApp.csproj": {}
+    "D:\\New folder\\LangAPP\\Language\\LanguageApp.csproj": {}
   },
   "projects": {
-    "D:\\New folder\\Language 1.1\\Language\\LanguageApp.csproj": {
+    "D:\\New folder\\LangAPP\\Language\\LanguageApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\New folder\\Language 1.1\\Language\\LanguageApp.csproj",
+        "projectUniqueName": "D:\\New folder\\LangAPP\\Language\\LanguageApp.csproj",
         "projectName": "LanguageApp",
-        "projectPath": "D:\\New folder\\Language 1.1\\Language\\LanguageApp.csproj",
+        "projectPath": "D:\\New folder\\LangAPP\\Language\\LanguageApp.csproj",
         "packagesPath": "C:\\Users\\rosti\\.nuget\\packages\\",
-        "outputPath": "D:\\New folder\\Language 1.1\\Language\\obj\\",
+        "outputPath": "D:\\New folder\\LangAPP\\Language\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

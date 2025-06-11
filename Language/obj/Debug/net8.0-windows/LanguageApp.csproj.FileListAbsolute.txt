@@ -54,3 +54,32 @@ D:\New folder\Language 1.1\Language\obj\Debug\net8.0-windows\refint\LanguageApp.
 D:\New folder\Language 1.1\Language\obj\Debug\net8.0-windows\LanguageApp.pdb
 D:\New folder\Language 1.1\Language\obj\Debug\net8.0-windows\LanguageApp.genruntimeconfig.cache
 D:\New folder\Language 1.1\Language\obj\Debug\net8.0-windows\ref\LanguageApp.dll
+D:\New folder\LangAPP\Language\bin\Debug\net8.0-windows\LanguageApp.exe
+D:\New folder\LangAPP\Language\bin\Debug\net8.0-windows\LanguageApp.deps.json
+D:\New folder\LangAPP\Language\bin\Debug\net8.0-windows\LanguageApp.runtimeconfig.json
+D:\New folder\LangAPP\Language\bin\Debug\net8.0-windows\LanguageApp.dll
+D:\New folder\LangAPP\Language\bin\Debug\net8.0-windows\LanguageApp.pdb
+D:\New folder\LangAPP\Language\obj\Debug\net8.0-windows\MainMenu.baml
+D:\New folder\LangAPP\Language\obj\Debug\net8.0-windows\MainWindow.baml
+D:\New folder\LangAPP\Language\obj\Debug\net8.0-windows\MistakeTrainer.baml
+D:\New folder\LangAPP\Language\obj\Debug\net8.0-windows\ResultsWindow.baml
+D:\New folder\LangAPP\Language\obj\Debug\net8.0-windows\ThemeWindow.baml
+D:\New folder\LangAPP\Language\obj\Debug\net8.0-windows\App.baml
+D:\New folder\LangAPP\Language\obj\Debug\net8.0-windows\MainMenu.g.cs
+D:\New folder\LangAPP\Language\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\New folder\LangAPP\Language\obj\Debug\net8.0-windows\MistakeTrainer.g.cs
+D:\New folder\LangAPP\Language\obj\Debug\net8.0-windows\ResultsWindow.g.cs
+D:\New folder\LangAPP\Language\obj\Debug\net8.0-windows\ThemeWindow.g.cs
+D:\New folder\LangAPP\Language\obj\Debug\net8.0-windows\App.g.cs
+D:\New folder\LangAPP\Language\obj\Debug\net8.0-windows\LanguageApp_MarkupCompile.cache
+D:\New folder\LangAPP\Language\obj\Debug\net8.0-windows\LanguageApp.g.resources
+D:\New folder\LangAPP\Language\obj\Debug\net8.0-windows\LanguageApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\LangAPP\Language\obj\Debug\net8.0-windows\LanguageApp.AssemblyInfoInputs.cache
+D:\New folder\LangAPP\Language\obj\Debug\net8.0-windows\LanguageApp.AssemblyInfo.cs
+D:\New folder\LangAPP\Language\obj\Debug\net8.0-windows\LanguageApp.csproj.CoreCompileInputs.cache
+D:\New folder\LangAPP\Language\obj\Debug\net8.0-windows\LanguageApp.sourcelink.json
+D:\New folder\LangAPP\Language\obj\Debug\net8.0-windows\LanguageApp.dll
+D:\New folder\LangAPP\Language\obj\Debug\net8.0-windows\refint\LanguageApp.dll
+D:\New folder\LangAPP\Language\obj\Debug\net8.0-windows\LanguageApp.pdb
+D:\New folder\LangAPP\Language\obj\Debug\net8.0-windows\LanguageApp.genruntimeconfig.cache
+D:\New folder\LangAPP\Language\obj\Debug\net8.0-windows\ref\LanguageApp.dll
