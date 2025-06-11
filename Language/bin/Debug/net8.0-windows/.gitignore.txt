@@ -1,0 +1,29 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build results
+bin/
+obj/
+*.exe
+*.dll
+
+# User-specific files
+*.userprefs
+
+# DotNet-specific
+project.lock.json
+project.fragment.lock.json
+
+# VS Code
+.vscode/
+
+# Rider
+.idea/
+
+# Others
+*.log
+*.pdb
+*.cache
+*.db

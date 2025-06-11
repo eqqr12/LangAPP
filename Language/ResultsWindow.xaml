@@ -1,0 +1,15 @@
+﻿<Window x:Class="LanguageApp.ResultsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Результати" Height="400" Width="600">
+	<Grid Margin="10">
+		<DataGrid x:Name="ResultsList" AutoGenerateColumns="False" CanUserAddRows="False">
+			<DataGrid.Columns>
+				<DataGridTextColumn Header="Слово" Binding="{Binding Native}" Width="*"/>
+				<DataGridTextColumn Header="Ваша відповідь" Binding="{Binding UserAnswer}" Width="*"/>
+				<DataGridTextColumn Header="Правильно" Binding="{Binding CorrectAnswer}" Width="*"/>
+				<DataGridCheckBoxColumn Header="✅" Binding="{Binding IsCorrect}" Width="60"/>
+			</DataGrid.Columns>
+		</DataGrid>
+	</Grid>
+</Window>

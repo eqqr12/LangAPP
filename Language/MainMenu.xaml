@@ -1,0 +1,27 @@
+﻿<Window x:Class="LanguageApp.MainMenu"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Меню" Height="450" Width="300" Background="#F5F5F5">
+    <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+
+        <TextBlock Text="Головне меню" FontSize="24" FontWeight="Bold" Margin="0,0,0,20" HorizontalAlignment="Center"/>
+
+        <Button x:Name="TestsButton" Content="Тести" Click="Tests_Click"/>
+        <Button x:Name="ThemesButton" Content="Теми" Click="Themes_Click"/>
+        <Button x:Name="MistakesButton" Content="Мої помилки" Click="Mistakes_Click"/>
+
+        <StackPanel x:Name="TestButtonsPanel" Visibility="Collapsed">
+            <Button Content="Англ → Укр" Click="EngToUkr_Click"/>
+            <Button Content="Укр → Англ" Click="UkrToEng_Click"/>
+            <Button Content="Меню" Click="BackToMain_Click"/>
+        </StackPanel>
+
+        <StackPanel x:Name="ThemePanel" Visibility="Collapsed">
+            <Button Content="Множина іменників" Click="Theme_Click"/>
+            <Button Content="Часи дієслів" Click="Theme_Click"/>
+            <Button Content="Модальні дієслова" Click="Theme_Click"/>
+            <Button Content="Меню" Click="BackToMain_Click"/>
+        </StackPanel>
+
+    </StackPanel>
+</Window>
